@@ -19,8 +19,10 @@ For example, <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhd
 2. Open an app detail
 3. Go to APK section
 4. Click on "See list" link below the number of supported devices
-<img src="https://github.com/juliome10/GooglePlayDeviceExporter/blob/master/images/gpdcSeeList.png" width="450" heigth="250" />
+
+    <img src="https://github.com/juliome10/GooglePlayDeviceExporter/blob/master/images/gpdcSeeList.png" width="450" heigth="250" />
 5. Exporter will parse html and open new tab with the info (Manufacturer, product and name)
-<img src="https://github.com/juliome10/GooglePlayDeviceExporter/blob/master/images/deviceList.png" width="200" height="400" />
+
+    <img src="https://github.com/juliome10/GooglePlayDeviceExporter/blob/master/images/deviceList.png" width="200" height="400" />
 
 **Remember to allow pop-up**
