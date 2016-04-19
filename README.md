@@ -15,11 +15,12 @@ For example, <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhd
 
 ## Execution
 
-1. Go to Google Play Developer Console
+1. <a href="https://play.google.com/apps/publish">Go to Google Play Developer Console</a>
 2. Open an app detail
 3. Go to APK section
 4. Click on "See list" link below the number of supported devices
+<img src="https://github.com/juliome10/GooglePlayDeviceExporter/blob/master/images/gpdcSeeList.png" width="450" heigth="250" />
+5. Exporter will parse html and open new tab with the info (Manufacturer, product and name)
+<img src="https://github.com/juliome10/GooglePlayDeviceExporter/blob/master/images/deviceList.png" width="200" height="450" />
 
-[![Google Play Developer Console](images/gpdcSeeList.jpg)](https://play.google.com/apps/publish)
-
-5. Exporter will parse html and open new tab with the info (remember to allow pop-up)
+**Remember to allow pop-up**
