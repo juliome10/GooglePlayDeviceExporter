@@ -9,7 +9,7 @@ Parses HTML code looking for all devices shown on your setup panel. When all ite
 
 # How to use?
 ## Installation
-You can download any web extension that executes JS on webpages, and include <a href="https://github.com/juliome10/GooglePlayDeviceExporter/source/exporter.js">exporter.js</a> on it.
+You can download any web extension that executes JS on webpages, and include <a href="https://github.com/juliome10/GooglePlayDeviceExporter/blob/master/source/exporter.js">exporter.js</a> on it.
 
 For example, <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"> Tampermonkey </a> (Chrome Store link)
 
