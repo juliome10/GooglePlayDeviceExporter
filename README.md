@@ -14,7 +14,7 @@ You can download any web extension that executes JS on webpages, and include <a 
 For example, <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"> Tampermonkey </a> (Chrome Store link)
 
 ## Execution
-Steps:
+
 1. Go to Google Play Developer Console
 2. Open an app detail
 3. Go to APK section
