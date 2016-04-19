@@ -19,4 +19,7 @@ For example, <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhd
 2. Open an app detail
 3. Go to APK section
 4. Click on "See list" link below the number of supported devices
+
+[![Google Play Developer Console](images/gpdcSeeList.jpg)](https://play.google.com/apps/publish)
+
 5. Exporter will parse html and open new tab with the info (remember to allow pop-up)
