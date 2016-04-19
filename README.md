@@ -8,4 +8,6 @@ Google Play Developer Console not allows to export a list of compatible devices 
 Parses HTML code looking for all devices shown on your setup panel. When all items are registered, browser will open a new tab with device list.
 
 # How to use?
-You can download any web extension that executes JS on webpages, and include exporter.js. For example, Tampermonkey on Chrome Store https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=es
+You can download any web extension that executes JS on webpages, and include <a href="https://github.com/juliome10/GooglePlayDeviceExporter">exporter.js</a> on it.
+
+For example, <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"> Tampermonkey </a> (Chrome Store link)
