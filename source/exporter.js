@@ -3,7 +3,7 @@
 // @namespace    http://juliome10.github.io
 // @version      1.0
 // @description  Get compatible devices
-// @author       You
+// @author       Julio Gómez
 // @match        https://play.google.com/apps/publish/*
 // @require      http://code.jquery.com/jquery-latest.js
 // @grant        none
