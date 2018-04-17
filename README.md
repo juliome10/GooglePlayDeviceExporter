@@ -1,4 +1,4 @@
-# GooglePlayDeviceExporter
+# [DEPRECATED] GooglePlayDeviceExporter
 This JS exports compatible devices list for published app on Google Play.
 
 # Why is written?
